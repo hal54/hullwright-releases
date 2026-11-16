@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-GUMROAD-LINK"><strong>Buy on Gumroad</strong></a> ·
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/hullwright-releases/releases/latest">Download the free trial</a> ·
-  <a href="#support">Support</a>
+  <a href="https://dilatedperspective.gumroad.com/l/hullwright"><strong>Buy on Gumroad</strong></a> ·
+  <a href="https://github.com/hal54/hullwright-releases/releases/latest">Download the free trial</a> ·
+  <a href="mailto:cdiego54@gmail.com">Support</a>
 </p>
 
 ![Hullwright](docs/cover.png)
